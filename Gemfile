@@ -39,6 +39,8 @@ gem 'carrierwave'
 
 gem 'rmagick', '~> 2.13.4'
 
+
+gem "kaminari"
 # Use unicorn as the app server
 # gem 'unicorn'
 
